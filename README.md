@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akash Ahmed
+- 👋 Hi, I’m MAHMUDUR RAHMAN
 - 👀 I’m a programmer and fullstack developer
 - 🌱 I’m currently working on Laravel
 - 💞️ I’m looking to collaborate on ...
