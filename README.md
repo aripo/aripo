@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Ahmed
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m a programmer and fullstack developer
+- 🌱 I’m currently working on Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
